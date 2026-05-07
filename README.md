@@ -1,97 +1,139 @@
-# Ольга Мельникова  
-### Junior QA Engineer | Manual / API / Database Testing
+# 👋 Привет! Я Ольга
+
+### 🧪 Junior QA Engineer (Manual / API / Database Testing)
 
 ---
 
-## 👤 Профиль
+## 💬 Немного обо мне
 
-Junior QA Engineer с практическими навыками тестирования веб и мобильных приложений.  
-Имею опыт работы с тестовой документацией, API тестированием и базами данных.
+Я начинающий QA Engineer, который активно развивается в тестировании ПО.  
+Мне нравится разбираться, как работают системы, находить ошибки и делать продукт более стабильным.
 
-Фокус на:
-- качестве продукта
-- анализе требований
-- поиске и документировании дефектов
-- понимании работы клиент-серверных систем
-
-Стремлюсь к развитию до уровня Middle QA Engineer через практику и углубление технических навыков.
+Сейчас я фокусируюсь на ручном тестировании, API, базах данных и тест-дизайне.
 
 ---
 
-## 🧪 Ключевые навыки
+## 🧰 Что я умею
 
-- Ручное тестирование (Web / Mobile)
-- Функциональное и регрессионное тестирование
-- API тестирование (REST / SOAP)
-- Smoke / Sanity testing
+### 🧪 Тестирование
+- Ручное тестирование веб и мобильных приложений
 - Написание тест-кейсов и чек-листов
-- Баг-репорты (структурированные и воспроизводимые)
-- Анализ требований
+- Поиск и оформление багов
+- API тестирование (REST / SOAP)
+- Регрессионное и функциональное тестирование
+- Работа с требованиями
 
----
-
-## 🛠 Инструменты
-
-### 🧩 Управление тестированием
+### 🛠 Инструменты
 - Jira
 - Test IT
-
-### 🔌 API
 - Postman
 - SoapUI
-
-### 🖥 Debug & UI
 - Chrome DevTools
-- Android Studio (basic)
+- Android Studio (базовый уровень)
 
 ### 💾 Базы данных
 - MySQL
-- NoSQL (basic)
+- MongoDB (NoSQL)
 
-### ⚙️ Дополнительно
+### 💻 Технологии
 - Git / GitHub
 - Bash
 - HTML (basic)
 
 ---
 
-## 📂 Практический опыт
+## 📂 Мои практические проекты
 
-- Разработка тест-кейсов и чек-листов по требованиям
-- API тестирование (GET / POST / PUT / DELETE запросы)
-- Проверка ответов API (status codes, JSON validation)
-- Проверка данных в базе данных с помощью SQL-запросов
-- Поиск, анализ и оформление багов в Jira
-- Тестирование UI веб и мобильных приложений
-- Использование DevTools для анализа ошибок frontend
+### 📌 Анализ требований
+Работа с требованиями: поиск неоднозначностей, пропусков, уточнение логики  
+🔗 https://docs.google.com/spreadsheets/d/1kAbAwzLg74ka3Y6YcmueEolUhPcksLnjOT73prAuFKQ
 
 ---
 
-## 📚 В процессе изучения
+### 🧪 Тест-дизайн
 
-- Углублённый SQL (joins, subqueries)
-- Тест-дизайн техники (equivalence classes, boundary values)
-- API testing (auth, tokens, negative testing)
-- Mobile testing (real devices, Android lifecycle)
+- Эквивалентное разбиение  
+🔗 https://docs.google.com/spreadsheets/d/1907fd8wLPDmGioUkIIlTByHrho8yPSUoI-BE_kWcKwk
+
+- Попарное тестирование  
+🔗 https://docs.google.com/spreadsheets/d/1WRaAJIvGar0ZaHzOGhYn-eyqIHg5-4Bc
+
+- Таблица принятия решений  
+🔗 https://docs.google.com/spreadsheets/d/1hr6qk0MSTzP39CLKTRp_UtcfJQ3-YkULnvlNO1M1sXI
+
+---
+
+### ✅ Чек-листы
+🔗 https://docs.google.com/spreadsheets/d/1IaybcKf2Q0tBMfv9M0-ESiNweZjmr_XY
+
+---
+
+### 🧾 Тест-кейсы (Test IT)
+🔗 https://docs.google.com/spreadsheets/d/1krWvs66cag5oDpHhqN_PmtVqA4TeZJIy
+
+---
+
+### 🐞 Баг-репорты
+
+📌 Test IT / отчёты  
+🔗 https://drive.google.com/file/d/1ySOkYOfuFaU9WhXbUSBLELSMKx-XtlMz/view  
+
+📌 Jira проект  
+🔗 https://melnikovaolga95.atlassian.net/jira/software/projects/YCOO/boards/36  
+
+📌 Дополнительные баги  
+🔗 https://drive.google.com/file/d/17aMRZVnOVBa13SO09X1-XzYGVZ8a0XVb/view  
+
+---
+
+### 🔌 API тестирование (Postman)
+
+📌 Collection 1  
+🔗 https://olys22460699-1622144.postman.co/workspace/Shop~16acebed-7d96-4201-b4f2-5e2452b957fe/collection/54160041-cd1c8ab4-c9bd-4111-aacb-0271418f3a18  
+
+📌 Collection 2  
+🔗 https://olys22460699-1622144.postman.co/workspace/Shop~16acebed-7d96-4201-b4f2-5e2452b957fe/collection/54160041-10060b3f-ef99-4720-945e-338b7bb500d1  
+
+---
+
+### 🔌 SOAP API
+🔗 https://drive.google.com/drive/folders/1Sk2Fp10-3GzH2RCLdnk6ppFKXF5nDnhu
+
+---
+
+### 💾 SQL практика
+🔗 https://docs.google.com/spreadsheets/d/1pI-4TLnQulFLFsarwnbNHDtPYakoNZ9RpgLT2yyNWiE  
+🔗 https://docs.google.com/spreadsheets/d/10IKH3P1PIOfnbiY08vGFocClhSZFtO2fTjgwoJp0kYA  
+
+---
+
+### 🗄 MongoDB практика
+🔗 https://docs.google.com/spreadsheets/d/1-fOvFrSH1my_-L9sSDGoWSfH4ax0mYQyS_nZRrg4gOQ  
+
+---
+
+### 📱 Mobile testing
+🔗 https://docs.google.com/spreadsheets/d/1Z_AHbvpWBHHRdzf-vNlJL9_mT0dBN3ao  
+
+---
+
+## 📚 Сейчас изучаю
+
+- Углублённый SQL
+- API testing (negative cases, auth, tokens)
+- Mobile testing на реальных устройствах
 - Основы CI/CD
-- Основы автоматизации тестирования
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=OlgaM26&show_icons=true&theme=github_dark)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OlgaM26&theme=github-dark-blue)
+- Тест-дизайн техники
 
 ---
 
 ## 📫 Контакты
 
 📧 Email: melnikova_olga95@mail.ru  
-💬 Telegram: @Lane_girl
+💬 Telegram: @Lane_girl  
 
 ---
 
-## ⚡ Summary
+# ✨ Fun Fact
 
-QA Engineer with strong foundation in manual and API testing, focused on product quality, structured testing approach and continuous professional growth toward Middle level.
+🕵️‍♀️ Иногда я нахожу баги быстрее, чем разработчики успевают их спрятать 😄
