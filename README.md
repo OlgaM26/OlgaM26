@@ -1,74 +1,80 @@
-# Olga Melnikova  
-### QA Engineer (Manual / API / Database Testing)
+# Ольга Мельникова  
+### Junior QA Engineer | Manual / API / Database Testing
 
 ---
 
-## 👤 Profile
+## 👤 Профиль
 
-QA Engineer focused on ensuring software quality through structured testing, analysis and documentation.
+Junior QA Engineer с практическими навыками тестирования веб и мобильных приложений.  
+Имею опыт работы с тестовой документацией, API тестированием и базами данных.
 
-Experienced in manual testing, API validation and database verification.  
-Comfortable working with test documentation, bug tracking systems and client-server architecture basics.
+Фокус на:
+- качестве продукта
+- анализе требований
+- поиске и документировании дефектов
+- понимании работы клиент-серверных систем
 
-Focused on delivering stable, reliable and well-tested products.
-
----
-
-## 🧪 Core QA Skills
-
-- Manual Testing (Web / Mobile)
-- Functional Testing
-- API Testing (REST / SOAP)
-- Regression / Smoke Testing
-- Test Case Design
-- Bug Reporting & Analysis
-- Test Documentation (Checklists, Test Cases)
+Стремлюсь к развитию до уровня Middle QA Engineer через практику и углубление технических навыков.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧪 Ключевые навыки
 
-### Test Management & Bug Tracking
+- Ручное тестирование (Web / Mobile)
+- Функциональное и регрессионное тестирование
+- API тестирование (REST / SOAP)
+- Smoke / Sanity testing
+- Написание тест-кейсов и чек-листов
+- Баг-репорты (структурированные и воспроизводимые)
+- Анализ требований
+
+---
+
+## 🛠 Инструменты
+
+### 🧩 Управление тестированием
 - Jira
 - Test IT
 
-### API Testing
+### 🔌 API
 - Postman
 - SoapUI
 
-### Development & Debugging Tools
+### 🖥 Debug & UI
 - Chrome DevTools
 - Android Studio (basic)
 
-### Databases
+### 💾 Базы данных
 - MySQL
-- NoSQL (basic understanding)
+- NoSQL (basic)
 
-### Other
+### ⚙️ Дополнительно
 - Git / GitHub
 - Bash
-- HTML (basic understanding)
+- HTML (basic)
 
 ---
 
-## 📂 Experience / Practice
+## 📂 Практический опыт
 
-- Creation of test cases and checklists based on requirements
-- API testing using Postman (requests, collections, validation)
-- Database validation using SQL queries
-- Bug reporting with clear reproduction steps and expected results
-- UI testing of web and mobile applications
-- Working with DevTools for debugging frontend issues
+- Разработка тест-кейсов и чек-листов по требованиям
+- API тестирование (GET / POST / PUT / DELETE запросы)
+- Проверка ответов API (status codes, JSON validation)
+- Проверка данных в базе данных с помощью SQL-запросов
+- Поиск, анализ и оформление багов в Jira
+- Тестирование UI веб и мобильных приложений
+- Использование DevTools для анализа ошибок frontend
 
 ---
 
-## 📚 Currently improving
+## 📚 В процессе изучения
 
-- Advanced SQL queries
-- API testing depth (authorization, tokens, negative cases)
-- Mobile testing practices
-- CI/CD basics
-- Test design techniques (boundary values, equivalence classes)
+- Углублённый SQL (joins, subqueries)
+- Тест-дизайн техники (equivalence classes, boundary values)
+- API testing (auth, tokens, negative testing)
+- Mobile testing (real devices, Android lifecycle)
+- Основы CI/CD
+- Основы автоматизации тестирования
 
 ---
 
@@ -79,7 +85,7 @@ Focused on delivering stable, reliable and well-tested products.
 
 ---
 
-## 📫 Contacts
+## 📫 Контакты
 
 📧 Email: melnikova_olga95@mail.ru  
 💬 Telegram: @Lane_girl
@@ -88,5 +94,4 @@ Focused on delivering stable, reliable and well-tested products.
 
 ## ⚡ Summary
 
-QA Engineer with a structured approach to testing and strong attention to detail.  
-Focused on product quality, system understanding and continuous professional growth.
+QA Engineer with strong foundation in manual and API testing, focused on product quality, structured testing approach and continuous professional growth toward Middle level.
