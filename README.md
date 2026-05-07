@@ -1,102 +1,109 @@
-# 👋 Привет, я Ольга  
-### Junior QA Engineer | Manual & API Testing
+# 👋 Olga Melnikova  
+### QA Engineer | Manual & API Testing
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=24&center=true&vCenter=true&width=700&lines=QA+Engineer;Manual+Testing;API+Testing;Bug+Hunter+🔍;Always+Learning+New+Things" />
-
----
-
-## 👩‍💻 Обо мне
-
-🔍 Начинающий QA Engineer с практическими навыками ручного и API тестирования.  
-📚 Изучаю современные инструменты тестирования и совершенствую технические навыки.  
-🎯 Интересуюсь качеством продукта, анализом систем и поиском нестандартных багов.  
-🚀 Стремлюсь развиваться в сфере QA и работать над реальными IT-проектами.
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=QA+Engineer;Manual+Testing;API+Testing;Bug+Hunter;Always+Improving+Skills" />
 
 ---
 
-# 🛠️ Tech Stack
+## 💼 About Me
 
-## 📌 Testing
+QA Engineer focused on software quality, system analysis and bug detection.  
+Working with manual testing, API testing, databases and modern QA tools.
 
-![Manual Testing](https://img.shields.io/badge/Manual-Testing-blue?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API-Testing-green?style=for-the-badge)
-![Bug Reports](https://img.shields.io/badge/Bug-Reports-red?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test-Cases-orange?style=for-the-badge)
-![Check Lists](https://img.shields.io/badge/Check-Lists-yellow?style=for-the-badge)
+Currently improving skills in:
+- API Testing
+- SQL
+- Mobile Testing
+- Test Documentation
+- Git workflows
 
----
-
-## 🧰 QA Tools
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Test IT](https://img.shields.io/badge/TestIT-black?style=for-the-badge)
-![DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+Focused on professional growth and real-world QA practice.
 
 ---
 
-## 💾 Databases
+# ⚙️ Tech Stack
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge)
+## 🧪 Testing
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-0A0A0A?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![API Testing](https://img.shields.io/badge/API_Testing-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bug Reports](https://img.shields.io/badge/Bug_Reports-1A1A1A?style=for-the-badge)
+![Test Cases](https://img.shields.io/badge/Test_Cases-222222?style=for-the-badge)
+![Check Lists](https://img.shields.io/badge/Check_Lists-2B2B2B?style=for-the-badge)
+
+---
+
+## 🛠 QA Tools
+
+![Postman](https://img.shields.io/badge/Postman-181818?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![SoapUI](https://img.shields.io/badge/SoapUI-181818?style=for-the-badge)
+![Jira](https://img.shields.io/badge/Jira-181818?style=for-the-badge&logo=jira&logoColor=2684FF)
+![Test IT](https://img.shields.io/badge/TestIT-181818?style=for-the-badge)
+![DevTools](https://img.shields.io/badge/Chrome_DevTools-181818?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
+![Android Studio](https://img.shields.io/badge/Android_Studio-181818?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![NoSQL](https://img.shields.io/badge/NoSQL-111111?style=for-the-badge)
 
 ---
 
 ## 💻 Technologies
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-181818?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Git](https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-181818?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
 ---
 
-# 📂 Portfolio Projects
+# 📂 Portfolio
 
-## 🔹 Test Documentation
+### QA Documentation
 - Test Cases
 - Check Lists
 - Bug Reports
 
-## 🔹 API Testing
+### API Testing
+- REST API
+- SOAP API
 - Postman Collections
-- SOAP API Testing
-- REST API Testing
 
-## 🔹 Database Practice
+### Database Testing
 - SQL Queries
-- Database Validation
-- Data Testing
+- Data Validation
+- Database Checks
 
 ---
 
-# 📚 Сейчас изучаю
+# 📚 Currently Learning
 
-- Автоматизацию тестирования
-- SQL Advanced
+- Test Automation
+- Advanced SQL
 - Mobile Testing
 - Bash scripting
-- Git workflows
+- CI/CD basics
 
 ---
 
 # 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=OlgaM26&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=OlgaM26&show_icons=true&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=OlgaM26&theme=tokyonight)
-
----
-
-# 📫 Контакты
-
-📩 Email: your_email@example.com  
-💬 Telegram: @your_username
+![](https://github-readme-streak-stats.herokuapp.com/?user=OlgaM26&theme=github-dark-blue)
 
 ---
 
-# ⚡ Fun Fact
+# 📫 Contacts
 
-🕵️‍♀️ Иногда баги сами меня находят 😄
+📧 Email: melnikova_olga95@mail.ru  
+💬 Telegram: @Lane_girl
+
+---
+
+# ⚡ Philosophy
+
+> Quality is never accidental.
