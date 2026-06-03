@@ -32,7 +32,8 @@
 - Android Studio (базовый уровень)
 
 ### 💾 Базы данных
-- MySQL
+- SQL
+- PostgreSQL
 - MongoDB (NoSQL)
 
 ### 💻 Технологии
@@ -152,7 +153,9 @@ https://github.com/OlgaM26/movieforNastyabot
 
 - Углублённый SQL
 - API testing (negative cases, auth, tokens)
-- Mobile testing на реальных устройствах
+- JS
+- Python
+- HTML
 - Основы CI/CD
 - Тест-дизайн техники
 
